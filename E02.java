@@ -5,7 +5,7 @@ public class E02{
 		int numero1, numero2;
 		String salida;
 	
-		System.out.print( "Introduzca número entero: ");
+		Syste.out.print( "Introduzca número entero: ");
 		numero1=teclado.nextInt();
 		System.out.print( "Introduzca número entero: ");
 		numero2=teclado.nextInt();
